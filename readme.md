@@ -1,3 +1,3 @@
 # JNotification
 
-![preview](https://github.com/mubashirtanveerayon/JNotification/5lfx4x.gif)
+![preview](https://github.com/mubashirtanveerayon/JNotification/blob/master/5lfx4x.gif)
